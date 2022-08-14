@@ -1,7 +1,11 @@
-Hi everyone I'm @Elclapo- 👀 
-I love to learn new things and I suck at coding and computer science. 
-My goal is to improve in these two areas and to create cool arduino based projects.
-I'm particularly passionate about Robotics and I am currently learning C++. 
-See you out there ;>)
+Hi everyone I'm @Elclapo <br/>
+I currently suck at Computer Science and coding. <br/>
+Right now I am studying: <br/> 
+- C++ (w/ Igor Bogoslavskiy's tutorials) <br/>
+- Linux <br/>
+- German <br/>
+My goal is to get eventually good at programming and to apply this knowledge to robotics. <br/>
+See you out there :>)
+
 
 
